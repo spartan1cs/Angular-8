@@ -1,7 +1,7 @@
 # Project1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
-This is just a test for git project. No need to do any changes 
+This is just a test for git project. No need to do any changes ok
 
 ## Development server
 
